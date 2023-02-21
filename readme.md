@@ -25,6 +25,7 @@ Welcome to the Python Cheatsheet repository, a collaborative effort to create a 
     - [Generators](#generators)
     - [Advanced string formatting](#advanced-string-formatting)
     - [List and dictionary comprehension](#list-and-dictionary-comprehension)
+  - [Contribution](#contributing)
 
 ## Beginner:
 
@@ -218,7 +219,7 @@ squared_nums = {x: x**2 for x in nums}
 print(squared_nums)
 ```
 
-This cheatsheet is just a sample of the many features and capabilities of the Python language. It is highly recommended to continue learning and practicing Python to become proficient in using it.
+Remember, Python is a powerful and constantly evolving language with many more features and capabilities beyond what is covered in this cheatsheet. To become proficient in using Python, it is important to continue learning and practicing.
 
 ## Contributing
 
