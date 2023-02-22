@@ -4,7 +4,7 @@ Welcome to the Python Cheatsheet repository, the go-to reference guide for Pytho
 
 ![python trademark](https://imgur.com/EI3tlCc.png)
 
-- [Python Cheatsheet](#python-cheatsheet)
+- [Python Cheatsheet](#python-cheatsheet-🐍)
   - [Beginner](#beginner)
     - [Strings](#strings)
     - [If-else](#if-else)
