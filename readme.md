@@ -4,7 +4,7 @@ Welcome to the Python Cheatsheet repository, the go-to reference guide for Pytho
 
 ![python trademark](https://imgur.com/EI3tlCc.png)
 
-- [Python Cheatsheet](#python-cheatsheet-🐍)
+- [Python Cheatsheet](#)
   - [Beginner](#beginner)
     - [Strings](#strings)
     - [If-else](#if-else)
@@ -678,7 +678,7 @@ We believe that the best cheatsheet is one that is created collaboratively by th
 To contribute, please follow these steps:
 
 1. Fork the repository and create a new branch for your changes.
-2. Make your changes to the cheatsheet file.
+2. Make your changes to the cheatsheet.
 3. Test your changes to ensure they are working properly.
 4. Submit a pull request to the main repository and wait for the review.
 
